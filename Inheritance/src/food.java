@@ -1,5 +1,5 @@
-public class food {
-    public void eat(){
+class food {
+    void eat(){
         System.out.println("I am the eat method.");
     }
 }
